@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/codingtrialreact/static/css/main.bcfbaad5.chunk.css",
+    "main.js": "/codingtrialreact/static/js/main.2c5b7728.chunk.js",
+    "main.js.map": "/codingtrialreact/static/js/main.2c5b7728.chunk.js.map",
+    "runtime-main.js": "/codingtrialreact/static/js/runtime-main.e2c0e060.js",
+    "runtime-main.js.map": "/codingtrialreact/static/js/runtime-main.e2c0e060.js.map",
+    "static/js/2.7844b3ce.chunk.js": "/codingtrialreact/static/js/2.7844b3ce.chunk.js",
+    "static/js/2.7844b3ce.chunk.js.map": "/codingtrialreact/static/js/2.7844b3ce.chunk.js.map",
+    "static/js/3.86855904.chunk.js": "/codingtrialreact/static/js/3.86855904.chunk.js",
+    "static/js/3.86855904.chunk.js.map": "/codingtrialreact/static/js/3.86855904.chunk.js.map",
+    "index.html": "/codingtrialreact/index.html",
+    "static/css/main.bcfbaad5.chunk.css.map": "/codingtrialreact/static/css/main.bcfbaad5.chunk.css.map",
+    "static/js/2.7844b3ce.chunk.js.LICENSE.txt": "/codingtrialreact/static/js/2.7844b3ce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/codingtrialreact/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2c0e060.js",
+    "static/js/2.7844b3ce.chunk.js",
+    "static/css/main.bcfbaad5.chunk.css",
+    "static/js/main.2c5b7728.chunk.js"
+  ]
+}
